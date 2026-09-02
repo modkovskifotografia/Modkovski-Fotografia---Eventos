@@ -1,0 +1,8 @@
+{
+  "name": "Remix Modkovski Fotografia - Eventos",
+  "description": "Proposta comercial e portfólio de fotografia e vídeo para eventos",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
