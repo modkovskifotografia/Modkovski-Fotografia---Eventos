@@ -3,7 +3,7 @@ import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
   title: 'Modkovski Fotografia | Proposta Comercial',
-  description: 'Sua cerimônia de casamento registrada com sensibilidade e olhar artístico.',
+  description: 'Seu momento é especial, e merece ser registrado.',
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
@@ -18,13 +18,13 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Modkovski Fotografia | Proposta Comercial',
-    description: 'Sua cerimônia de casamento registrada com sensibilidade e olhar artístico.',
+    description: 'Seu momento é especial, e merece ser registrado.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Modkovski Fotografia | Proposta Comercial',
-    description: 'Sua cerimônia de casamento registrada com sensibilidade e olhar artístico.',
+    description: 'Seu momento é especial, e merece ser registrado.',
   },
 };
 
