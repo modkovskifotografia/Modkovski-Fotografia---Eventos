@@ -47,10 +47,25 @@ export default function Hero() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.3, ease: [0.16, 1, 0.3, 1] }}
-              className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-light text-brand-wine tracking-tight leading-[1.05] mb-4 font-serif"
+              className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-light text-brand-wine tracking-tight leading-[1.05] mb-6 font-serif"
             >
               {brandConfig.hero.title}
             </motion.h1>
+
+            {/* Event & Client Details */}
+            <motion.div
+              initial={{ opacity: 0, x: -10 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.8, delay: 0.45, ease: [0.16, 1, 0.3, 1] }}
+              className="border-l-2 border-brand-wine/40 pl-3.5 py-0.5 mb-6"
+            >
+              <p className="text-xs md:text-sm font-semibold tracking-[0.16em] uppercase text-brand-text">
+                {brandConfig.client.event}
+              </p>
+              <p className="text-[11px] md:text-xs font-semibold tracking-[0.12em] uppercase text-brand-wine mt-0.5">
+                {brandConfig.client.name} — {brandConfig.client.dateFormatted}
+              </p>
+            </motion.div>
 
             <motion.p 
               initial={{ opacity: 0, y: 15 }}

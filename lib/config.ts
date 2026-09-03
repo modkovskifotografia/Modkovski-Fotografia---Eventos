@@ -29,11 +29,11 @@ export const brandConfig = {
     url: "https://wa.me/5569999718820",
   },
   client: {
-    name: "Letícia Faustino",
-    event: "Cerimônia de Casamento",
-    date: "23 de janeiro de 2027",
-    time: "20h",
-    dateFormatted: "23 de janeiro de 2027 · 20h",
+    name: "Wílran Breno",
+    event: "Cobertura na Catedral",
+    date: "10 de Outubro de 2026",
+    time: "16h",
+    dateFormatted: "10 de Outubro de 2026 · 16h",
   },
   hero: {
     tagline: "Portfólio",

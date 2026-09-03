@@ -20,52 +20,52 @@ interface SlotItem {
 
 const initialSlots: SlotItem[] = [
   {
-    id: 1,
+    id: 7,
     type: 'video',
-    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/1.mp4',
+    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/07.mp4',
     fallbackSrc: 'https://assets.mixkit.co/videos/preview/mixkit-wedding-couple-walking-in-the-forest-40871-large.mp4',
-    poster: 'https://picsum.photos/seed/wedding-v1/1080/1920',
-    fileName: '1.mp4'
+    poster: 'https://picsum.photos/seed/wedding-v7/1080/1920',
+    fileName: '07.mp4'
   },
   {
-    id: 2,
+    id: 8,
     type: 'video',
-    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/2.mp4',
+    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/08.mp4',
     fallbackSrc: 'https://assets.mixkit.co/videos/preview/mixkit-bride-and-groom-standing-together-40872-large.mp4',
-    poster: 'https://picsum.photos/seed/wedding-v2/1080/1920',
-    fileName: '2.mp4'
+    poster: 'https://picsum.photos/seed/wedding-v8/1080/1920',
+    fileName: '08.mp4'
   },
   {
-    id: 3,
+    id: 9,
     type: 'video',
-    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/3.mp4',
+    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/09.mp4',
     fallbackSrc: 'https://assets.mixkit.co/videos/preview/mixkit-bride-adjusting-her-wedding-dress-40874-large.mp4',
-    poster: 'https://picsum.photos/seed/wedding-v3/1080/1920',
-    fileName: '3.mp4'
+    poster: 'https://picsum.photos/seed/wedding-v9/1080/1920',
+    fileName: '09.mp4'
   },
   {
-    id: 4,
+    id: 10,
     type: 'video',
-    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/4.mp4',
+    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/10.mp4',
     fallbackSrc: 'https://assets.mixkit.co/videos/preview/mixkit-putting-on-the-wedding-ring-40019-large.mp4',
-    poster: 'https://picsum.photos/seed/wedding-v4/1080/1920',
-    fileName: '4.mp4'
+    poster: 'https://picsum.photos/seed/wedding-v10/1080/1920',
+    fileName: '10.mp4'
   },
   {
-    id: 5,
+    id: 11,
     type: 'video',
-    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/5.mp4',
+    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/11.mp4',
     fallbackSrc: 'https://assets.mixkit.co/videos/preview/mixkit-bride-and-groom-holding-hands-42289-large.mp4',
-    poster: 'https://picsum.photos/seed/wedding-v5/1080/1920',
-    fileName: '5.mp4'
+    poster: 'https://picsum.photos/seed/wedding-v11/1080/1920',
+    fileName: '11.mp4'
   },
   {
-    id: 6,
+    id: 12,
     type: 'video',
-    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/6.mp4',
+    src: 'https://leemiyktgclhnrtxtjex.supabase.co/storage/v1/object/public/portfolio/12.mp4',
     fallbackSrc: 'https://assets.mixkit.co/videos/preview/mixkit-groom-kissing-the-bride-on-the-forehead-42291-large.mp4',
-    poster: 'https://picsum.photos/seed/wedding-v6/1080/1920',
-    fileName: '6.mp4'
+    poster: 'https://picsum.photos/seed/wedding-v12/1080/1920',
+    fileName: '12.mp4'
   }
 ];
 
